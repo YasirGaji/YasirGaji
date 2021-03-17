@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**YasirGaji/YasirGaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Yasir🌟an aspirirng Fullstack Developer💻, Location Nigeria and currently studying Pure Physics in Lagos State University. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on ... PCI
+- 🌱 I’m currently learning ... Native React 
+- 👯 I’m looking to collaborate on ... Frontend Projects
+- 🤔 I’m looking for help with ... None at the moment
+- 💬 Ask me about ... Front-end
+- 📫 How to reach me: ... [Email](yasir@pleasantcodes.com)
+- 😄 Pronouns: ... Mesculine
+- ⚡ Fun fact: ... ALWAYS LEARNING WITH UNCONFUSED FOCUS
+

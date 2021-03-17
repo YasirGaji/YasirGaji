@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ... Frontend Projects
 - 🤔 I’m looking for help with ... None at the moment
 - 💬 Ask me about ... Front-end
-- 📫 How to reach me: ... [Email](yasir@pleasantcodes.com)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/YasirGaji)
 - 😄 Pronouns: ... Mesculine
 - ⚡ Fun fact: ... ALWAYS LEARNING WITH UNCONFUSED FOCUS
 

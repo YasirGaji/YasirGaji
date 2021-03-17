@@ -1,6 +1,6 @@
-### Hello there 👋
+## Hello there 👋
 
-# I'm Yasir🌟an aspirirng Fullstack Developer💻, Location Nigeria and currently studying Pure Physics in Lagos State University. 
+### I'm Yasir🌟an aspirirng Fullstack Developer💻, Location Nigeria and currently studying Pure Physics in Lagos State University. 
 
 
 

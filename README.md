@@ -1,6 +1,6 @@
 <p align="center">
   <img src="" width="70" />  
-  <h2 align="center"><a href="https://codewonders.dev">I'm Yasir Gaji</a></h2>
+  <h2 align="center"><a href="#">I'm Yasir Gaji</a></h2>
   <p align="center"> Frontend developer and Aspiring JavaScript engineer</p>
 </p>
 

@@ -1,6 +1,6 @@
 <p align="center">
   <img src="" width="70" />  
-  <h2 align="center"><a href="#">I'm Yasir Gaji</a></h2>
+  <h2 align="center"><a href="https://pbs.twimg.com/profile_images/1318039182170783744/jZx_9KBd_400x400.jpg">I'm Yasir Gaji</a></h2>
   <p align="center"> Frontend developer and Aspiring JavaScript engineer</p>
 </p>
 

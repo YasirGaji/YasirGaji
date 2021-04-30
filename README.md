@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://yasirgaji.netlify.app/">Portfolio</a> | 
+  <a href="https://yasirgaji.dev/#about/">Portfolio</a> | 
   <a href="https://twitter.com/YasirGaji">Twitter</a> |
   <a href="https://www.linkedin.com/in/gajiyasir/">LinkedIn</a>
 </p>
 
 <br />
 
-💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](#), [Articles](#), [Resumé](#), [Contact Me](#).
+💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://yasirgaji.dev/#portfolio), [Articles](#), [Resumé](https://yasirgaji.dev/resources/pdf/Resume-Yasir-Gaji.pdf), [Contact Me](mailto:yasirgaji@pleasantcodes.com).
 
-📫 You can reach me at yasirgaji@gmail.com.
+📫 You can reach me at yasirgaji@pleasantcodes.com
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on [PCI](https://pleasantcodes.com/)

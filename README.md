@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://yasirgaji.dev/#portfolio/">Portfolio</a> | 
   <a href="https://twitter.com/YasirGaji">Twitter</a> |
-  <a href="https://www.linkedin.com/in/gajiyasir/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/yasirgaji/">LinkedIn</a>
 </p>
 
 <br />

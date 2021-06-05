@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on [PCI](https://pleasantcodes.com/)
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👯 I’m looking to collaborate on Javascript projects
-- 💬 Ask me about JavaScript, CSS, React.
+- 💬 Ask me about JavaScript, CSS, React. 
 - ⚡ Fun fact: I dabble in fashion....... shhh dont tell anyone 😄
 
 
@@ -28,7 +28,6 @@
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning ...
 

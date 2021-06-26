@@ -17,7 +17,7 @@
 📫 You can reach me at yasirgaji@pleasantcodes.com
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on [PCI](https://pleasantcodes.com/)
+- 🔭 I’m currently working on [Boom Tickets](https://boomtickets.netlify.app/)
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👯 I’m looking to collaborate on Javascript projects
 - 💬 Ask me about JavaScript, CSS, React. 

@@ -17,19 +17,9 @@
 📫 You can reach me at yasirgaji@pleasantcodes.com
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on [Boom Tickets](https://boomtickets.netlify.app/) and [OtakuTv](#)
+- 🔭 I’m currently working on [OtakuTv](#)
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👯 I’m looking to collaborate on Javascript projects
 - 💬 Ask me about JavaScript, CSS, React. 
 - ⚡ Fun fact: I dabble in fashion....... shhh dont tell anyone 😄
 
-
-<!--
-**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
-
--->

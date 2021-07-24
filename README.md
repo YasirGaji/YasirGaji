@@ -22,4 +22,3 @@
 - 👯 I’m looking to collaborate on Javascript projects
 - 💬 Ask me about JavaScript, CSS, React. 
 - ⚡ Fun fact: I dabble in fashion....... shhh dont tell anyone 😄
-

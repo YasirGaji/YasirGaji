@@ -12,7 +12,7 @@
 
 <br />
 
-💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://yasirgaji.dev/#portfolio), [Articles](#), [Resumé](https://yasirgaji.dev/resources/pdf/Resume-Yasir-Gaji.pdf), [Contact Me](mailto:yasirgaji@pleasantcodes.com).
+💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://yasirgaji.dev/#portfolio/), [Articles](https://medium.com/@Yasirgaji), [Resumé](https://yasirgaji.dev/resources/pdf/Resume-Yasir-Gaji.pdf), [Contact Me](mailto:yasirgaji@pleasantcodes.com).
 
 📫 You can reach me at yasirgaji@pleasantcodes.com
 

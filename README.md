@@ -3,7 +3,6 @@
   <h2 align="center"><a href="https://yasirgaji.dev/">I'm Yasir Gaji</a></h2>
   <p align="center"> Frontend developer and Aspiring JavaScript engineer</p>
 </p>
-
 <p align="center">
   <a href="https://yasirgaji.dev/#portfolio/">Portfolio</a> | 
   <a href="https://twitter.com/YasirGaji">Twitter</a> |
@@ -11,7 +10,6 @@
 </p>
 
 <br />
-
 💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://yasirgaji.dev/#portfolio/), [Articles](https://medium.com/@Yasirgaji), [Resumé](https://yasirgaji.dev/resources/pdf/Resume-Yasir-Gaji.pdf), [Contact Me](mailto:yasirgaji@pleasantcodes.com).
 
 📫 You can reach me at yasirgaji@pleasantcodes.com
@@ -21,4 +19,4 @@
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👯 I’m looking to collaborate on Javascript projects
 - 💬 Ask me about JavaScript, CSS, React. 
-- ⚡ Fun fact: I dabble in fashion......shhh dont tell anyone 😄.
+- ⚡ Fun fact: I dabble in fashion.....shhh dont tell anyone 😄.

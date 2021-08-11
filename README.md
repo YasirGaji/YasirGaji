@@ -10,7 +10,7 @@
 </p>
 
 <br />
-💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://yasirgaji.dev/#portfolio/), [Articles](https://medium.com/@Yasirgaji), [Resumé](https://yasirgaji.dev/resources/pdf/Resume-Yasir-Gaji.pdf), [Contact Me](mailto:yasirgaji@pleasantcodes.com).
+💫 I'm currently working with my hands to make magic happen on the web. View my <a href="https://yasirgaji.dev/#portfolio/">Projects<a/>, <a href="https://medium.com/@Yasirgaji">Articles<a/>, <a href="https://yasirgaji.dev/resources/pdf/Resume-Yasir-Gaji.pdf">Resumé<a/>, <a href="mailto:yasirgaji@pleasantcodes.com">Contact Me<a/>.
 
 📫 You can reach me at yasirgaji@pleasantcodes.com.
 

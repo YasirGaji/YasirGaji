@@ -18,5 +18,5 @@
 - 🔭 I’m currently working on [OtakuTv](https://otakutv.netlify.app/).
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👯 I’m looking to collaborate on Javascript projects.
-- 💬 Ask me about JavaScript, CSS, React. 
+- 💬 Ask me about JavaScript, CSS, & React. 
 - ⚡ Fun fact: I dabble in fashion....shhh dont tell anyone 😄.

@@ -14,7 +14,7 @@
 
 📫 You can reach me at yasirgaji@pleasantcodes.com.
 
-- 😄 Pronouns: He/Him.
+- 😄 Pronouns: He || Him.
 - 🔭 I’m currently working on [OtakuTv](https://otakutv.netlify.app/).
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👯 I’m looking to collaborate on Javascript projects.

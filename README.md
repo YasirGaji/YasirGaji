@@ -20,10 +20,6 @@ You can reach me at yasirgaji@gmail.com.
 - 👯 I’m looking to collaborate on Javascript projects.
 - 💬 Ask me about JavaScript, CSS, & React. 
 - ⚡ Fun fact: I dabble in Product management...shhh don't tell anyone 😄.
-  
-
-<br/>
 
 ---
-
-[![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasirGaji)](https://github.com/YasirGaji/github-readme-stats)
+![YAsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasirGaji&show_icons=true&theme=radical)

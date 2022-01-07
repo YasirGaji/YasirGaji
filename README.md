@@ -23,10 +23,7 @@ You can reach me at yasirgaji@gmail.com.
   
 
 <br/>
-<br/>
 
 ---
 
-### Latest Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasirGaji)](https://github.com/YasirGaji/github-readme-stats)

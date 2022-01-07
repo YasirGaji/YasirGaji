@@ -22,4 +22,4 @@ You can reach me at yasirgaji@gmail.com.
 - ⚡ Fun fact: I dabble in Product management...shhh don't tell anyone 😄.
 
 ---
-![YAsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasirGaji&show_icons=true&theme=merko)
+![YAsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasirGaji&show_icons=true&theme=dark)

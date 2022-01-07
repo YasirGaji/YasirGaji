@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://pbs.twimg.com/profile_images/1318039182170783744/jZx_9KBd_400x400.jpg" width="70" />  
   <h2 align="center">Hello, I'm <a href="https://yasirgaji.dev/">Yasir Gaji</a></h2>
+  ---
   <p align="center">Web Engineer</p>
 </p>
 <p align="center">

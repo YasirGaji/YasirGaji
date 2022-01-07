@@ -29,4 +29,4 @@ You can reach me at yasirgaji@gmail.com.
 
 ### Latest Articles
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --># YasirGaji
+<!-- BLOG-POST-LIST:END -->

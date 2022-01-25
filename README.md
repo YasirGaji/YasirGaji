@@ -4,7 +4,7 @@
   <p align="center">Web Engineer</p>
 </p>
 <p align="center">
-  <a href="https://yasirgaji.dev/#portfolio/">Portfolio</a> | 
+  <a href="https://yasirgaji.dev/">Portfolio</a> | 
   <a href="https://twitter.com/YasirGaji">Twitter</a> |
   <a href="https://www.linkedin.com/in/yasirgaji/">LinkedIn</a>
 </p>

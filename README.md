@@ -10,7 +10,7 @@
 </p>
 
 <br />
-I'm currently working with my hands to make wonders happen on the web. View my <a href="https://yasirgaji.dev/#portfolio/">Projects<a/>, <a href="https://medium.com/@Yasirgaji">Articles<a/>, <a href="https://yasirgaji.dev/resources/pdf/Resume-Yasir-Gaji.pdf">Resumé<a/>.
+I'm currently working with my hands to make wonders happen on the web. View my <a href="https://yasirgaji.dev/#portfolio/">Projects<a/>, <a href="https://medium.com/@Yasirgaji">Articles<a/>, <a href="https://yasirgaji.dev/resources/Resume-Yasir-Gaji.pdf">Resumé<a/>.
 
 You can reach me at yasirgaji@gmail.com.
 

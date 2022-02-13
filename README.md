@@ -19,6 +19,6 @@ You can reach me at yasirgaji@gmail.com.
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👯 I’m looking to collaborate on Javascript projects.
 - 💬 Ask me about JavaScript, Mark-Up, & React. 
-- ⚡ Fun fact: I dabble in Product management....shhh don't tell anyone 😄.
+- ⚡ Fun fact: I dabble in Product management...shhh don't tell anyone 😄.
 
 <!-- ![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasirGaji&show_icons=true&theme=dark) -->

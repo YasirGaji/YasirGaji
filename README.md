@@ -18,5 +18,5 @@ You can reach me at yasirgaji@gmail.com.
 - 🔭 I’m currently working on [Myself](https://yasirgaji.netlify.app/).
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👯 I’m looking to collaborate on Javascript projects.
-- 💬 Ask me about JavaScript, Mark-Up, & React. 
+- 💬 Ask me about JavaScript, Mark-Up, React, Node. 
 - ⚡ Fun fact: I dabble in Product management...shhh don't tell anyone 😄.

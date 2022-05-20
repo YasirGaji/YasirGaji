@@ -18,5 +18,5 @@ You can reach me at yasirgaji@gmail.com.
 - 🔭 I’m currently working on [Myself](https://yasirgaji.netlify.app/).
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👯 I’m looking to collaborate on Javascript projects.
-- 💬 Ask me about Mark-Up, [CSS](https://medium.com/@Yasirgaji/list/css-through-yasir-ec0c32c609d9), [JavaScript](https://medium.com/@Yasirgaji/list/javascript-essentials-40b1898fbce3), React, Node, WordPress, Magento. 
+- 💬 Ask me about Mark-Up, [CSS](https://medium.com/@Yasirgaji/list/css-through-yasir-ec0c32c609d9), [JavaScript](https://medium.com/@Yasirgaji/list/javascript-essentials-40b1898fbce3), React, React Native, Node, WordPress, Magento. 
 - ⚡ Fun fact: I dabble in [Product management](https://medium.com/@Yasirgaji/list/product-management-in-5-minutes-23a5e8f4d9f3).....shhh don't tell anyone 😄.

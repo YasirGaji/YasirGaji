@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1318039182170783744/jZx_9KBd_400x400.jpg" width="70" />  
+  <img src="https://cdn.dribbble.com/users/7500460/avatars/small/606470213052ec7cbf2551ce19aa8865.png?1653023232" width="70" />  
   <h2 align="center">Hello, I'm <a href="https://yasirgaji.netlify.app/">Yasir Gaji</a></h2>
   <p align="center">Software Engineer</p>
 </p>

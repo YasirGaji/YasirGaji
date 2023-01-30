@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://cdn.dribbble.com/users/7500460/avatars/small/606470213052ec7cbf2551ce19aa8865.png?1653023232" width="70" />  
   <h2 align="center">Hello, I'm <a href="https://yasirgaji.com/">Yasir Gaji</a></h2>
-  <p align="center">Software Engineer</p>
+  <p align="center">A Growing Software Engineer</p>
 </p>
 <p align="center">
   <a href="https://yasirgaji.com/">Portfolio</a> | 

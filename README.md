@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a target="_blank" href="https://yasirgaji.com/">Portfolio</a> | 
-  <a target="_blank" href="https://twitter.com/YasirGaji">Twitter</a> |
+  <a target="_blank" href="https://twitter.com/YasirGaji">Twitter/X</a> |
   <a target="_blank" href="https://www.linkedin.com/in/yasirgaji/">LinkedIn</a> |
   <a target="_blank" href="https://www.threads.net/@yasirgaji">Threads</a>
 </p>

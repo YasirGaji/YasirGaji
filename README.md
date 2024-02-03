@@ -15,7 +15,7 @@ I'm currently working with my hands to make wonders happen on the web. View my <
 
 You can reach me at yasirgaji@gmail.com.
 
-- 😄 Pronouns: He | Him.
+- 😄 Pronouns: He | Him | His.
 - 🔭 I’m currently working on <a target="_blank" href="https://www.yasirgaji.com/">Myself</a>.
 - 🌱 I’m currently learning about anything and everything around JavaScript && Typescript.
 - 👯 I’m looking to collaborate on Javascript projects.

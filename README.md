@@ -13,6 +13,8 @@
 <br />
 I'm currently working with my hands to make wonders happen on the web. View my <a target="_blank" href="https://yasirgaji.com/#portfolio">Projects<a/>, <a target="_blank" href="https://yasirgaji.com/#article">Articles<a/>, <a target="_blank" href="https://yasirgaji.com/resources/Resume-Yasir-Gaji.pdf">Resumé.<a/>.
 
+<a href="https://wakatime.com/@fa25509c-5e6e-4aa1-ae99-ca5b447e1afc"><img src="https://wakatime.com/badge/user/fa25509c-5e6e-4aa1-ae99-ca5b447e1afc.svg" alt="Total time coded since Jan 8 2022" /></a>
+
 You can reach me at yasirgaji@gmail.com.
 
 - 😄 Pronouns: He | Him | His.

@@ -10,16 +10,20 @@
   <a target="_blank" href="https://www.threads.net/@yasirgaji">Threads</a>
 </p>
 
+<p align="center">
+Total time coded since Jan 8 2022 <br /> <br />
+<a href="https://wakatime.com/@fa25509c-5e6e-4aa1-ae99-ca5b447e1afc"><img src="https://wakatime.com/badge/user/fa25509c-5e6e-4aa1-ae99-ca5b447e1afc.svg" alt="Total time coded since Jan 8 2022" /></a>
+</p>
+
 <br />
 I'm currently working with my hands to make wonders happen on the web. View my <a target="_blank" href="https://yasirgaji.com/#portfolio">Projects<a/>, <a target="_blank" href="https://yasirgaji.com/#article">Articles<a/>, <a target="_blank" href="https://yasirgaji.com/resources/Resume-Yasir-Gaji.pdf">Resumé.<a/>.
 
-<a href="https://wakatime.com/@fa25509c-5e6e-4aa1-ae99-ca5b447e1afc"><img src="https://wakatime.com/badge/user/fa25509c-5e6e-4aa1-ae99-ca5b447e1afc.svg" alt="Total time coded since Jan 8 2022" /></a>
 
 You can reach me at yasirgaji@gmail.com.
 
 - 😄 Pronouns: He | Him | His.
 - 🔭 I’m currently working on <a target="_blank" href="https://admin.worknet.ai/">Worknet</a>.
-- 🌱 I’m currently learning about anything and everything around JavaScript && Typescript.
+- 🌱 I’m currently learning about anything and everything around JavaScript, Typescript && Python.
 - 👯 I’m looking to collaborate on Javascript projects.
 - 💬 Ask me about Mark-Up, [CSS](https://medium.com/@Yasirgaji/list/css-through-yasir-ec0c32c609d9), [JavaScript](https://medium.com/@Yasirgaji/list/javascript-essentials-40b1898fbce3), [React](https://medium.com/@Yasirgaji/list/dont-react-2228be8ffa73), [Node](https://medium.com/@Yasirgaji/learn-node-with-yasir-lnwy-part-1-d38cafe5652c). 
 - ⚡ Fun fact: I write [Articles]([https://medium.com/@Yasirgaji) about things I learn and my experiences as a growing engineer.

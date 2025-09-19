@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Total time coded since Jan 8 2022 <br /> <br />
+Total time coded since Jan 8, 2022 <br /> <br />
 <a href="https://wakatime.com/@fa25509c-5e6e-4aa1-ae99-ca5b447e1afc"><img src="https://wakatime.com/badge/user/fa25509c-5e6e-4aa1-ae99-ca5b447e1afc.svg" alt="Total time coded since Jan 8 2022" /></a>
 </p>
 

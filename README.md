@@ -22,7 +22,7 @@ I'm currently working with my hands to make wonders happen on the web. View my <
 You can reach me at yasirgaji@gmail.com.
 
 - 😄 Pronouns: He | Him | His.
-- 🔭 I’m currently working on <a target="_blank" href="https://admin.worknet.ai/">Worknet</a>.
+- 🔭 currently at <a target="_blank" href="https://objectionly.com/">Objectionly AI</a> • formerly at <a target="_blank" href="https://worknet.ai/">Worknet AI</a>.
 - 🌱 I’m currently learning about anything and everything around JavaScript, Typescript && Python eco-system.
 - 👯 I’m looking to collaborate on Javascript projects.
 - 💬 Ask me about Mark-Up, [CSS](https://medium.com/@Yasirgaji/list/css-through-yasir-ec0c32c609d9), [JavaScript](https://medium.com/@Yasirgaji/list/javascript-essentials-40b1898fbce3), [React](https://medium.com/@Yasirgaji/list/dont-react-2228be8ffa73), [Node](https://medium.com/@Yasirgaji/learn-node-with-yasir-lnwy-part-1-d38cafe5652c). 
